@@ -5,10 +5,12 @@
 Advanced Python Programming knowledge
 
 # Run the code
-```python gui.py 
+```python
+python gui.py 
 ```
 Enter the IP on which you want to start the server
-Run the command again and enter the IP for client. If the connection is successful, past chat history will be send to the client.
+Run the command again and enter the IP for client.
+If the connection is successful, past chat history will be send to the client.
 
 # Features
 * No restriction on the number of clients and number to servers they want to connect to
