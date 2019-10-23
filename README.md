@@ -1,5 +1,5 @@
 # End-to-end-chat-server-application
---Tested on Ubuntu 16.04, Windows 7,8
+--Tested on Ubuntu 16.04, 18.04, Windows 7,8
 
 # Prerequisits
 Advanced Python Programming knowledge
